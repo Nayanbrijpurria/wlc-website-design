@@ -13,7 +13,7 @@
 
 Your project is live at:
 
-**[[https://vercel.com/nayanbrijpuria123-gmailcoms-projects/v0-wlc-website-design](https://v0.dev/chat/wlc-website-design-3RYZEESlPMe)](https://v0-wlc-website-design.vercel.app/)**
+**[(https://v0.dev/chat/wlc-website-design-3RYZEESlPMe)](https://v0-wlc-website-design.vercel.app/)**
 
 ## Build your app
 
