@@ -15,10 +15,7 @@ Your project is live at:
 
 **[(https://v0.dev/chat/wlc-website-design-3RYZEESlPMe)](https://v0-wlc-website-design.vercel.app/)**
 
-## Build your app
 
-Continue building your app on:
 
-**[https://v0.dev/chat/projects/iIAlHPsis4Q](https://v0.dev/chat/projects/iIAlHPsis4Q)**
 
 
