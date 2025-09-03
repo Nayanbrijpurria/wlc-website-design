@@ -1,6 +1,6 @@
 # Animal healthcare website design
 
-
+In this no database is connected.
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nayanbrijpuria123-gmailcoms-projects/v0-wlc-website-design)
 
